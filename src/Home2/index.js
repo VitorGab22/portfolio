@@ -29,7 +29,7 @@ export default function Home2({ history }) {
         <header >
           <h3>Olá, meu nome é</h3>
           <h1>Vitor Gabriel,</h1>
-          <h1>Programador</h1>
+          <h1>Sou programador</h1>
 
 
         </header>
