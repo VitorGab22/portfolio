@@ -48,12 +48,13 @@ export default function Home2({ history }) {
               </header>
               <strong>Vitor Gabriel de Sousa Reis</strong>
             </li>
-            <span>21 anos</span>
+            <span>22 anos</span>
           </button>
 
           <div className="boxwhat">
             <h4>Entrar em contato:</h4>
-            <button className="whats">Whatsapp</button>
+
+            <button className="whats"><a href="https://api.whatsapp.com/send/?phone=%2B5562982262701&Olá Vitor, tudo bem? acabei de ver seu portfólio.+&type=phone_number&app_absent=0/">Whatsapp</a></button>
 
           </div>
 
