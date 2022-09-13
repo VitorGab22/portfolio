@@ -116,13 +116,6 @@ export default function Home2({ history }) {
           </ul>
         </div>
 
-        <label className="view2">
-
-          <h2>Oque estou estudando e aprimorando?
-          </h2>
-          <h3>React, React Native, banco de dados, backend, PHP.
-          </h3>
-        </label>
 
         <label className="view2">
 
